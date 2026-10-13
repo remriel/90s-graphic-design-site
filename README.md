@@ -1,8 +1,10 @@
-# vinext-starter
+# MODERN? NEVER! | 90s Graphic Design
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+![MODERN? NEVER! graphic design site preview](og.png)
+
+An interactive, 1990s-inspired web design experiment: bold typography, vivid color, oversized web-era interface details, and a decidedly maximalist approach to the information superhighway. Built with React, TypeScript, and vinext.
+
+## Developer setup
 
 ## Prerequisites
 
