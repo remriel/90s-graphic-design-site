@@ -45,11 +45,11 @@ Output #0, null, to 'pipe:':
         handler_name    : SoundHandler
         vendor_id       : [0][0][0][0]
         encoder         : Lavc61.19.100 pcm_s16le
-frame=   33 fps=0.0 q=-0.0 size=N/A time=00:00:01.10 bitrate=N/A speed=2.08x    
-frame=   82 fps= 78 q=-0.0 size=N/A time=00:00:02.73 bitrate=N/A speed=2.59x    
-frame=  128 fps= 81 q=-0.0 size=N/A time=00:00:04.26 bitrate=N/A speed= 2.7x    
-frame=  162 fps= 77 q=-0.0 size=N/A time=00:00:05.40 bitrate=N/A speed=2.57x    
-frame=  216 fps= 82 q=-0.0 size=N/A time=00:00:07.20 bitrate=N/A speed=2.75x    
-frame=  254 fps= 80 q=-0.0 size=N/A time=00:00:08.46 bitrate=N/A speed=2.68x    
+frame=   33 fps=0.0 q=-0.0 size=N/A time=00:00:01.10 bitrate=N/A speed=2.08x
+frame=   82 fps= 78 q=-0.0 size=N/A time=00:00:02.73 bitrate=N/A speed=2.59x
+frame=  128 fps= 81 q=-0.0 size=N/A time=00:00:04.26 bitrate=N/A speed= 2.7x
+frame=  162 fps= 77 q=-0.0 size=N/A time=00:00:05.40 bitrate=N/A speed=2.57x
+frame=  216 fps= 82 q=-0.0 size=N/A time=00:00:07.20 bitrate=N/A speed=2.75x
+frame=  254 fps= 80 q=-0.0 size=N/A time=00:00:08.46 bitrate=N/A speed=2.68x
 [out#0/null @ 000001a7896403c0] video:129KiB audio:1876KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
-frame=  300 fps= 83 q=-0.0 Lsize=N/A time=00:00:10.00 bitrate=N/A speed=2.77x    
+frame=  300 fps= 83 q=-0.0 Lsize=N/A time=00:00:10.00 bitrate=N/A speed=2.77x
