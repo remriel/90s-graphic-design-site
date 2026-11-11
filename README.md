@@ -49,3 +49,5 @@ The app uses vinext and Vite. Project configuration is in `vite.config.ts` and `
 React · TypeScript · CSS · vinext · Vite
 
 This project showcases a design direction and its implementation, with no separate installer required.
+
+If you find this project useful, you can [buy me a coffee](https://buymeacoffee.com/remriel).
